@@ -1,4 +1,4 @@
-\#这是必须的git
+#这是必须的git
 
 ```
 npm install
