@@ -1,2 +1,0 @@
-# WanderGIS
- Cesium_project
